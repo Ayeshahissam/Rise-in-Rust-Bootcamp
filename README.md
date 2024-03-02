@@ -1,7 +1,6 @@
 # Rust-Project
 
-![Image](pixlr-image-generator-b32a2792-bc13-47d5-92e7-1bdafddd7649
-.png)
+![Image](pixlr-image-generator-b32a2792-bc13-47d5-92e7-1bdafddd7649.png)
 
 
 
