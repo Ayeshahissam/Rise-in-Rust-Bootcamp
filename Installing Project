@@ -1,0 +1,30 @@
+## RustyGoods
+RustyGoods is an inventory management system developed in Rust, featuring a user-friendly menu interface for seamless inventory management.
+
+## Installation
+To install RustyGoods, follow these steps:
+
+## Clone the Repository:
+git clone https://github.com/your-username/RustyGoods.git
+
+## Navigate to the Project Directory:
+
+cd RustyGoods
+
+## Compile the Project:
+
+cargo build
+
+## Run the Project:
+
+cargo run
+
+## Usage
+Once the project is installed and running, follow the on-screen instructions to interact with the inventory management system. Use the menu options to add, delete, edit, or generate reports for products in the inventory.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to RustyGoods, please fork the repository, make your changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
